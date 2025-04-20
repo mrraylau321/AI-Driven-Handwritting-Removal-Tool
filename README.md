@@ -25,6 +25,7 @@ The project uses synthetic datasets created by combining clean document template
 
 ### Handwritten Elements
 - **Alphabet Dataset**: Used to simulate diverse handwritten text annotations with natural variations in stroke width, character spacing, and writing styles
+  - Dataset source: [Alphabets Dataset (300x300) | Kaggle](https://www.kaggle.com/datasets/sankalpsrivastava26/capital-alphabets-28x28/data)
 - **MNIST Dataset**: Incorporated for numerical annotations, providing realistic digit formations commonly found in form completions and numerical markups
 
 ### Data Augmentation
